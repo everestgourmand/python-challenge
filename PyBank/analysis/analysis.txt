@@ -1,0 +1,8 @@
+Financial Analysis
+----------------------------
+
+Total number of months: 86
+Net total amount of Profit/Losses over the entire period: $22564198
+Average change in Profit/Losses over the entire period: $-8311.11
+Greatest increase in profits: $1862002.0 on Aug-16
+Greatest decrease in profits: $-1825558.0 on Feb-14
